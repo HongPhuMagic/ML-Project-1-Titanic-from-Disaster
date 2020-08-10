@@ -1,5 +1,19 @@
 ## ML-Project-1-Titanic-from-Disaster
 
+#### Conclusion
+
+In this project, I've built miltiple models to predict whether the subject survives or not. Since this is a Classification problem, I used classification models:
+* Logisitc Regression (79.6%)
+* KNN (67.4%)
+* Decision Tree (74.1%)
+* Random Forest (82.1%)
+* SVM (67.4%)
+
+As you can see, the best performing model was Random Foresting using the basic parameters. In general, models can be further improved by:
+* Getting more data 
+* Tuning the parameters 
+* Using the other features given in the dataset that weren't used in this (Cabin, Ticket, Title from the Name)
+
 This is a typical first real data science project that most people go through. With that being said, there are many examples of this kernal throughout kaggle. I have attempted my best to use what I know and limited myself on using other kernals available.
 
 #### Data Source
@@ -20,20 +34,6 @@ There are 12 columns and 891 entries/rows. You can find more about what each col
     * Random Foresting
     * SVM
 * Predict survival or deceased
-
-#### Conclusion
-
-In this project, I've built miltiple models to predict whether the subject survives or not. Since this is a Classification problem, I used classification models:
-* Logisitc Regression (79.6%)
-* KNN (67.4%)
-* Decision Tree (74.1%)
-* Random Forest (82.1%)
-* SVM (67.4%)
-
-As you can see, the best performing model was Random Foresting using the basic parameters. In general, models can be further improved by:
-* Getting more data 
-* Tuning the parameters 
-* Using the other features given in the dataset that weren't used in this (Cabin, Ticket, Title from the Name)
 
 
 ##### Final thoughts
