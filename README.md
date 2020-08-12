@@ -18,7 +18,7 @@ This is a typical first real data science project that most people go through. W
 
 #### Data Source
 
-For this project, I'll be applying the Logistic Regression algorithm on the famous [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) dataset!
+For this project, I'll be applying the Logistic Regression algorithm on the famous [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) dataset.
   
 #### Data Description
 
